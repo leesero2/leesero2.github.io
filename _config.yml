@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 title                    : "지훈이의 기록장"
-title_separator          : "-"
+title_separator          : "포트폴리오 기록장"
 subtitle                 : "오늘도 열심히 공부하자!"
 name                     : "이지훈"
 description              : "지훈이의 포트폴리오 깃헙 페이지."
