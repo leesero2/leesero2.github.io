@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "지훈이의 기록장"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+subtitle                 : "오늘도 열심히 공부하자!"
+name                     : "이지훈"
 description              : "An amazing website."
 url                      : "https://leesero2.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
