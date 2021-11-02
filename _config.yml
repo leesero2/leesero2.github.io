@@ -102,11 +102,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "LEE JI HOON"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "**백문이 불여일타"
+  location         : "Busan"
+  email            : "huny10000@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
